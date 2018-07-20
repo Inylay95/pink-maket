@@ -1,0 +1,9 @@
+.banner{
+    background-image: url("../img/icon__banner.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 558px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
